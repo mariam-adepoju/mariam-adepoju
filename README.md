@@ -22,22 +22,20 @@ I’m a detail-oriented **Frontend Developer** with an analytical approach to bu
 ---
 
 ## 🚀 Featured Projects
-
-### 🧠 RetinaCare — AI Health-tech Solution  
-**AI-powered diabetic retinopathy prediction platform.**  
-- Built an intuitive dashboard to present AI diagnostic insights clearly.  
-- Prioritized accessibility and usability for health-related data.  
-**Tech:** React • TypeScript • Tailwind CSS  
-🔗 https://frontend-eosin-nu.vercel.app/
-
----
-
 ### 🚜 AgricConnect — E-commerce Platform for Farmers  
 **A platform connecting farmers directly with consumers.**  
 - Integrated Paystack for secure payments.  
 - Implemented real-time data handling using Firebase and Zustand.  
 **Tech:** React • TypeScript • Firebase • Zustand • Paystack  
+
 🔗 https://agricconect.netlify.app/
+
+### 🚀 Startup Pitch — Startup Idea Presentation Platform
+**A centralized platform for entrepreneurs to showcase and discover innovative ideas.**
+- Built with **Next.js (App Router)** for optimized server-side rendering and SEO.
+**Tech:** Next.js 15 • TypeScript • Tailwind CSS  • NextAuth
+
+🔗 https://startup-pitch-vuln.vercel.app/
 
 ---
 
